@@ -1,5 +1,5 @@
 # Algorithme-de-Déquantification
-
+Projet en cours de réalisation dans le cadre de l'UE Projet de Programmation  
 Nom de l encadrant :Mahé Gaël
 
 Catégorie(s): app. scientifique
