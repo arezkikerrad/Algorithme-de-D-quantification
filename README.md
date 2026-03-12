@@ -24,4 +24,4 @@ Références bibliographiques
 [1] H. Halalchi, G. Mahé, M. Jaïdane, “Revisiting quantization theorem through audiowatermarking.” , Proc. ICASSP 2009, avril 2009, pp. 3361-364
 
 Technologies
-Programmation en C ou en Julia
+Programmation en LANGAGE C 
