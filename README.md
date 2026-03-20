@@ -20,6 +20,9 @@ Si on peut restaurer l’histogramme P des couples (x(n-1),x(n)), on va utiliser
 
 Travail : Un jeu de données sera fourni, incluant une série temporelle quantifiée et son histogramme des couples de valeurs successives. Le travail consistera à implémenter l’algorithme décrit ci-dessus. L’implémentation devra inclure un mode graphique permettant de visualiser le processus de construction/élagage de l’arbre.
 
+
+
+hahaha ignore this line
 Références bibliographiques
 [1] H. Halalchi, G. Mahé, M. Jaïdane, “Revisiting quantization theorem through audiowatermarking.” , Proc. ICASSP 2009, avril 2009, pp. 3361-364
 
