@@ -22,10 +22,6 @@ Travail : Un jeu de données sera fourni, incluant une série temporelle quantif
 
 
 
-hahaha ignore this line hahah just to keep the strike nothing more
-sdssdfdsfdqdf
-
-
 Références bibliographiques
 [1] H. Halalchi, G. Mahé, M. Jaïdane, “Revisiting quantization theorem through audiowatermarking.” , Proc. ICASSP 2009, avril 2009, pp. 3361-364
 
